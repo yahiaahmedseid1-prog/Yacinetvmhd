@@ -99,6 +99,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
 import com.example.data.CodeEntity
+import com.example.ui.theme.CardBorder
 import com.example.ui.theme.CyberBlack
 import com.example.ui.theme.HotPink
 import com.example.ui.theme.NeonCyan
